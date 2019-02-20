@@ -20,7 +20,7 @@ namespace XUnitTestCalculator
             Assert.Equal(5, Add(2, 2));
             Assert.Equal(5, Subtract(2, 2));
             Assert.Equal(5, Divide(2, 2));
-            Assert.Equal(6, Multiply(3, 2));
+            Assert.Equal(8, Multiply(3, 2));
         }
 
         int Add(int x, int y)

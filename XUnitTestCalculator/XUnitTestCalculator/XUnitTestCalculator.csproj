@@ -12,4 +12,10 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="NUnit3.TestAdapter">
+      <HintPath>..\..\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

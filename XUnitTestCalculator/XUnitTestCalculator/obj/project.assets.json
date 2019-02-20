@@ -5849,23 +5849,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rahib\\.nuget\\packages\\": {},
+    "C:\\Users\\Tech-W70a\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rahib\\source\\repos\\XUnitTestCalculator\\XUnitTestCalculator\\XUnitTestCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\Tech-W70a\\Engineering26\\week6\\Day2\\sparta_global_TDD\\XUnitTestCalculator\\XUnitTestCalculator\\XUnitTestCalculator.csproj",
       "projectName": "XUnitTestCalculator",
-      "projectPath": "C:\\Users\\rahib\\source\\repos\\XUnitTestCalculator\\XUnitTestCalculator\\XUnitTestCalculator.csproj",
-      "packagesPath": "C:\\Users\\rahib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rahib\\source\\repos\\XUnitTestCalculator\\XUnitTestCalculator\\obj\\",
+      "projectPath": "C:\\Users\\Tech-W70a\\Engineering26\\week6\\Day2\\sparta_global_TDD\\XUnitTestCalculator\\XUnitTestCalculator\\XUnitTestCalculator.csproj",
+      "packagesPath": "C:\\Users\\Tech-W70a\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tech-W70a\\Engineering26\\week6\\Day2\\sparta_global_TDD\\XUnitTestCalculator\\XUnitTestCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rahib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tech-W70a\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
