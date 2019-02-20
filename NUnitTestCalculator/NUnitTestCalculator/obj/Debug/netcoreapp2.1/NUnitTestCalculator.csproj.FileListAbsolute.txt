@@ -1,0 +1,12 @@
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\NUnitTestCalculator.deps.json
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\NUnitTestCalculator.runtimeconfig.json
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\NUnitTestCalculator.runtimeconfig.dev.json
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\bin\Debug\netcoreapp2.1\NUnitTestCalculator.dll
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\obj\Debug\netcoreapp2.1\NUnitTestCalculator.csprojAssemblyReference.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\obj\Debug\netcoreapp2.1\NUnitTestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\obj\Debug\netcoreapp2.1\NUnitTestCalculator.AssemblyInfoInputs.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day2\NUnitTestCalculator\NUnitTestCalculator\obj\Debug\netcoreapp2.1\NUnitTestCalculator.AssemblyInfo.cs
